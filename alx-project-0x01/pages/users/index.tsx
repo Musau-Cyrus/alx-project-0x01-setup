@@ -5,3 +5,5 @@ const UsersIndex: React.FC = () => {
         </div>
     )
 }
+
+export default UsersIndex;
